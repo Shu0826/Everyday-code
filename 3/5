@@ -1,0 +1,7 @@
+void setName(string name) {
+		m_Name = name;
+	}
+	string getName()
+	{
+		return m_Name;
+	}
